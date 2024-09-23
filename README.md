@@ -9,3 +9,6 @@ Key Features:
 - Technical Specifications: Fixed-position cameras with static IP/URL, providing images in JPG format every 10 minutes.
 - Real-Time Monitoring: Supports up to four cameras per site, providing reliable and frequent weather updates for aviation use.
 - Help us enhance aviation safety by developing this FAA-compliant weather webcam network for airports!
+
+# FAA Weather Camera Program Office (WCPO) Standards
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
