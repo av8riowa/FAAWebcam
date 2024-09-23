@@ -11,4 +11,4 @@ Key Features:
 - Help us enhance aviation safety by developing this FAA-compliant weather webcam network for airports!
 
 # FAA Weather Camera Program Office (WCPO) Standards
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/av8riowa/FAAWebcam/blob/main/FAA-Requirements-Image.jpg)?raw=true)
